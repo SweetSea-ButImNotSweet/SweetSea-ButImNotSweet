@@ -1,6 +1,6 @@
-# **SweetSea-ButNotSweet**
+# **SweetSea-ButImNotSweet**
 
-Hello, my nickname is **SweetSea**. I jsut coding for fun<br>
+Hello, my nickname is **Squishy** (alt: **SweetSea**. I jsut coding for fun<br>
 I can coding in Python at immediately level and some basic Batch
 
 Eh, right now, there is nothing to show here<br>
