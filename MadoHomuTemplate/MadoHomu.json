@@ -1,0 +1,21 @@
+{
+   "faction":"MadokaMagica",
+   "contact":"https://discord.gg/madoka",
+   "templates":[
+      {
+         "name":"JustHomura",
+         "sources":[
+            "https://nyancat.de/mado162.png"
+         ],
+         "x":496,
+         "y":633,
+         "frameWidth":null,
+         "frameHeight":null,
+         "frameRate":null,
+         "frameCount":null,
+         "startTime":null,
+         "looping":null
+      }
+   ],
+   "whitelist":null
+}
